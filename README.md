@@ -23,9 +23,6 @@ High schooler diving back into the world of programming 💻
 <img src="https://img.shields.io/badge/Collaboration-F7E7DC?style=for-the-badge&logo=github&logoColor=000000">
 </p>
 <p align="center">
-~ building on the <a href="https://nnhsprogramming.club">NNHS Programming Club's Website</a>
-</p>
-<p align="center">
 ~ integrating digital art skills with my projects
 </p>
 
@@ -40,14 +37,6 @@ High schooler diving back into the world of programming 💻
 <img src="https://img.shields.io/badge/C-F7E7DC?style=for-the-badge&logo=c&logoColor=000000"> 
 <img src="https://img.shields.io/badge/Vibe%20Coding-F7E7DC?style=for-the-badge&logo=code&logoColor=000000"> 
 </p>
-
----
-
-<div align="center">
-
-![Heona's GitHub stats](https://github-readme-stats.vercel.app/api?username=heonaliu&show_icons=true&title_color=F5C7BD&text_color=EDEDED&icon_color=7AC1D6&bg_color=2E2E2E&hide_border=true)
-
-</div>
 
 ---
 
