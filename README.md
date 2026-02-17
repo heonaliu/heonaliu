@@ -43,3 +43,5 @@ High schooler diving back into the world of programming 💻
 ### 📫 Contact
 [![Email](https://img.shields.io/badge/heonaliu@gmail.com-F7E7DC?style=for-the-badge&logo=gmail&logoColor=000000)](mailto:heonaliu@gmail.com)  
 [![Portfolio](https://img.shields.io/badge/heonaliu.com-F7E7DC?style=for-the-badge&logo=About.me&logoColor=000000)](https://heonaliu.com)
+
+![Heona's HackTime stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=28675&api_domain=hackatime.hackclub.com&theme=omni&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)
