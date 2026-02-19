@@ -19,7 +19,6 @@ High schooler diving back into the world of programming 💻
 <p align="center">
 <img src="https://img.shields.io/badge/Digital%20Art-F7E7DC?style=for-the-badge&logo=adobe&logoColor=000000"> 
 <img src="https://img.shields.io/badge/AI-F7E7DC?style=for-the-badge&logo=googleai&logoColor=000000"> 
-<img src="https://img.shields.io/badge/Vibe%20Coding-F7E7DC?style=for-the-badge&logo=code&logoColor=000000"> 
 <img src="https://img.shields.io/badge/Collaboration-F7E7DC?style=for-the-badge&logo=github&logoColor=000000">
 </p>
 <p align="center">
