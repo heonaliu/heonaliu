@@ -34,7 +34,6 @@ High schooler diving back into the world of programming 💻
 <img src="https://img.shields.io/badge/React-F7E7DC?style=for-the-badge&logo=react&logoColor=000000">
 <img src="https://img.shields.io/badge/Web%20Development-F7E7DC?style=for-the-badge&logo=html5&logoColor=000000"> 
 <img src="https://img.shields.io/badge/C-F7E7DC?style=for-the-badge&logo=c&logoColor=000000"> 
-<img src="https://img.shields.io/badge/Vibe%20Coding-F7E7DC?style=for-the-badge&logo=code&logoColor=000000"> 
 </p>
 
 ---
